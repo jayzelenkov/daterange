@@ -1,6 +1,6 @@
 ## DateRange
 
-[![Build Status](https://travis-ci.org/jevzee/daterange.svg?branch=master)](https://travis-ci.org/jevzee/daterange)
+[![Build Status](https://travis-ci.org/jzelenkov/daterange.svg?branch=master)](https://travis-ci.org/jzelenkov/daterange)
 
 `DateRange` models a quantity or amount of time in terms of years, months and days between two LocalDate objects.
 
